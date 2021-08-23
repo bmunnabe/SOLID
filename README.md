@@ -1,9 +1,14 @@
 SOLID PRINCIPLE
 
 S - SINGLE RESPOSIBILITY 
+
 O - OPEN/CLOSE, OPEN FOR EXTENSION CLOSE FOR MODIFICATION
-L - LISKOV ( EVERY SUB CLASS OF SUPER CLASS SOULD BEHAVE SAME WHEN IT METHOD CALL/SHOULD NOT BREAK, if S is a subtype of T, then objects of type T may be replaced with objects of type S )
+
+L - LISKOV ( EVERY SUB CLASS OF SUPER CLASS SOULD BEHAVE SAME WHEN IT METHOD CALL/SHOULD NOT BREAK)
+if S is a subtype of T, then objects of type T may be replaced with objects of type S )
+
 I - INTERFACE SEGREGATION ( A client should never be forced to implement or depend on an interface/method that it doesn't use )
+
 D - DEPENDENCY INVERSION
 
 
